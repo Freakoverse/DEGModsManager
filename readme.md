@@ -1,3 +1,5 @@
+The below text is yet to be modified
+
 [![Build status](https://ci.appveyor.com/api/projects/status/hxenwxmpaob5xung?svg=true)](https://ci.appveyor.com/project/ModOrganizer2/modorganizer-736bd)
 
 # Mod Organizer
